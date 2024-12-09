@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
 
 function App() {
   const [count, setCount] = useState(0);
